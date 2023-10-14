@@ -1,0 +1,7 @@
+# Ignore artifacts:
+cypress
+node_modules
+gitignore
+cypress.config.js
+package-lock.json
+package.json
