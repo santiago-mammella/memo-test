@@ -24,6 +24,7 @@
 
 .square {
   opacity: 0;
+  transition: 0.3s;
 }
 
 .col {
@@ -36,4 +37,8 @@
 
 .delete {
   background-color: darkgray;
+}
+
+.my-h-100{
+  height: 80vh;
 }
